@@ -11,6 +11,13 @@
     display: block;
 }
 
+.themeify.discorded #terminal-output span.received,
+.themeify.discoranged #terminal-output span.received,
+.themeify.cyborg #terminal-output span.received,
+.themeify.nighttime #terminal-output span.received {
+    color: lightskyblue;
+}
+
 #terminal-output span.sent {
     position: relative;
     font-size: 18px;
@@ -18,4 +25,11 @@
     text-align: right;
     color: green;
     display: block;
+}
+
+.themeify.discorded #terminal-output span.sent,
+.themeify.discoranged #terminal-output span.sent,
+.themeify.cyborg #terminal-output span.sent,
+.themeify.nighttime #terminal-output span.sent {
+    color: greenyellow;
 }

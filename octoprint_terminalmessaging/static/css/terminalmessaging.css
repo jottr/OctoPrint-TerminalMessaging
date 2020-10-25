@@ -4,10 +4,10 @@
 
 #terminal-output span.received {
     position: relative;
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 0.8rem;
+    line-height: 1.3rem;
     text-align: left;
-    color: blue;
+    color: black;
     display: block;
 }
 
@@ -20,8 +20,8 @@
 
 #terminal-output span.sent {
     position: relative;
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 0.8rem;
+    line-height: 1.3rem;
     text-align: right;
     color: green;
     display: block;

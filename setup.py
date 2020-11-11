@@ -21,13 +21,13 @@ plugin_version = "0.0.3"
 plugin_description = """Adds styling to the terminal tab that makes it easier to see where a message is from."""
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "jeffeb3"
+plugin_author = "jottr" # Forked from jeffeb3
 
 # The plugin's author's mail address.
 plugin_author_email = "jeffeb3+github@gmail.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/jeffeb3/OctoPrint-TerminalMessaging"
+plugin_url = "https://github.com/jottr/OctoPrint-TerminalMessaging"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "MIT"
